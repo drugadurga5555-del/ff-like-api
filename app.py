@@ -24,4 +24,4 @@ def like():
 def home():
     return "API READY HAI - /like?uid=YOUR_ID use kar"
 
-app.run(host='0.0.0.0', port=10000)￼Enter
+app.run(host='0.0.0.0', port=10000)Enter
